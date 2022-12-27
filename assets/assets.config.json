@@ -1,0 +1,41 @@
+{
+  "atrilogo.png": {
+    "mime": "image/png"
+  },
+  "github_darkmode.png": {
+    "mime": "image/png"
+  },
+  "IntroGif.gif": {
+    "mime": "image/gif"
+  },
+  "githubstrbtn.svg": {
+    "mime": "image/svg+xml"
+  },
+  "feature_1.png": {
+    "mime": "image/png"
+  },
+  "feature_2.png": {
+    "mime": "image/png"
+  },
+  "feature_3.png": {
+    "mime": "image/png"
+  },
+  "installation_figure.png": {
+    "mime": "image/png"
+  },
+  "linkedin.png": {
+    "mime": "image/png"
+  },
+  "twitter.png": {
+    "mime": "image/png"
+  },
+  "youtube.png": {
+    "mime": "image/png"
+  },
+  "slack.png": {
+    "mime": "image/png"
+  },
+  "made_with_atri_2.svg": {
+    "mime": "image/svg+xml"
+  }
+}
